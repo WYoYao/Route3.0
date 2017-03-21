@@ -1,0 +1,15 @@
+.TabDiv{
+    width:100%;
+    background: #222;
+    height: 44px;
+}
+
+.font{
+    margin: 0;
+    height: 44px;
+    line-height: 44px;
+    float: left;
+    width: 33%;
+    border: 1px solid #fff;
+    color: #fff;
+}
